@@ -76,6 +76,6 @@ Create a .env file and add your Google Gemini Pro API key:
    ```bash
    streamlit run app.py
 
-4. Access the application in your browser at localhost
+4. Access the application in your browser(localhost).
 
 
